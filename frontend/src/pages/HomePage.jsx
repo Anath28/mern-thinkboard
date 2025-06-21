@@ -4,7 +4,6 @@ import RateLimitedUI from '../components/RateLimitedUI';
 import axios from 'axios';
 import toast from 'react-hot-toast';
 import NoteCard from '../components/NoteCard';
-import Note from '../../../backend/src/models/note';
 import api from "../lib/axios";
 import NotesNotFound from '../components/NotesNotFound';
 
